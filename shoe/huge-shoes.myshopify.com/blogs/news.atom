@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://huge-shoes.myshopify.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://huge-shoes.myshopify.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://huge-shoes.myshopify.com/blogs/news.atom"/>
+  <title>Shoes - News</title>
+  <updated>2017-05-10T04:12:00-04:00</updated>
+  <author>
+    <name>Shoes</name>
+  </author>
+  <entry>
+    <id>https://huge-shoes.myshopify.com/blogs/news/blog-9</id>
+    <published>2017-05-10T04:12:00-04:00</published>
+    <updated>2017-05-10T07:32:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-shoes.myshopify.com/blogs/news/blog-9"/>
+    <title>25 km cross country cycling using All Terrain Cycles</title>
+    <author>
+      <name>Ram M</name>
+    </author>
+    <content type="html">
+      <![CDATA[Pellentesque posuere orci lobortis scelerisque blandit. Donec id tellus lacinia an, tincidunt risus ac, consequat velit. Quisquemos sodales suscipit tortor ditaemcos condimentum lacus meleifend men...]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://huge-shoes.myshopify.com/blogs/news/blog-8</id>
+    <published>2017-05-10T04:08:00-04:00</published>
+    <updated>2017-05-10T07:32:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-shoes.myshopify.com/blogs/news/blog-8"/>
+    <title>Decathlon training routine</title>
+    <author>
+      <name>Ram M</name>
+    </author>
+    <content type="html">
+      <![CDATA[Pellentesque posuere orci lobortis scelerisque blandit. Donec id tellus lacinia an, tincidunt risus ac, consequat velit. Quisquemos sodales suscipit tortor ditaemcos condimentum lacus meleifend men...]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://huge-shoes.myshopify.com/blogs/news/blog-3</id>
+    <published>2017-05-10T00:40:00-04:00</published>
+    <updated>2017-05-11T01:55:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-shoes.myshopify.com/blogs/news/blog-3"/>
+    <title>Obstacle course racing on Huge Shoes</title>
+    <author>
+      <name>Ram M</name>
+    </author>
+    <content type="html">
+      <![CDATA[Pellentesque posuere orci lobortis scelerisque blandit. Donec id tellus lacinia an, tincidunt risus ac, consequat velit. Quisquemos sodales suscipit tortor ditaemcos condimentum lacus meleifend men.]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://huge-shoes.myshopify.com/blogs/news/blog-1</id>
+    <published>2017-05-10T00:38:00-04:00</published>
+    <updated>2017-05-10T07:38:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-shoes.myshopify.com/blogs/news/blog-1"/>
+    <title>Dancing regularly as an aerobic exercise for cardio</title>
+    <author>
+      <name>Ram M</name>
+    </author>
+    <content type="html">
+      <![CDATA[Pellentesque posuere orci lobortis scelerisque blandit. Donec id tellus lacinia an, tincidunt risus ac, consequat velit. Quisquemos sodales suscipit tortor ditaemcos condimentum lacus meleifend men...]]>
+    </content>
+  </entry>
+</feed>

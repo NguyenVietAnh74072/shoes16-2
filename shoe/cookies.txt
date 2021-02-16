@@ -1,0 +1,17 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+huge-shoes.myshopify.com	TRUE	/18119799/checkouts/6e2e7db90c68216eab57610ff7880554	FALSE	1999999999	checkout	eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaVV4TVdKa01tTTRZalV3T1RKa01qSTRaall5WWpWaU56QmpOV1UxT1dObFpnWTZCa1ZVIiwiZXhwIjoiMjAyMS0wMy0wOFQxNzo0MToyNS40NjJaIiwicHVyIjoiY29va2llLmNoZWNrb3V0In19--de75505d08ea6dd2b71a5b7a738eac1b2fae945f
+huge-shoes.myshopify.com	TRUE	/18119799	FALSE	1999999999	checkout_token	eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaVUyWlRKbE4yUmlPVEJqTmpneU1UWmxZV0kxTnpZeE1HWm1Oemc0TURVMU5BWTZCa1ZVIiwiZXhwIjoiMjAyMi0wMi0xNVQxNzo0MToyNS40NjJaIiwicHVyIjoiY29va2llLmNoZWNrb3V0X3Rva2VuIn19--a04a536403532407dfb484b0562838c5a8eef613
+huge-shoes.myshopify.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+huge-shoes.myshopify.com	TRUE	/	FALSE	1999999999	cart	7994efdd4b2f8afc140d2407996012eb
+huge-shoes.myshopify.com	TRUE	/	FALSE	1999999999	cart_ts	1613410884
+huge-shoes.myshopify.com	TRUE	/	FALSE	1999999999	cart_currency	USD
+huge-shoes.myshopify.com	TRUE	/	FALSE	1999999999	cart_ver	gcp-us-central1%3A1
+huge-shoes.myshopify.com	TRUE	/	FALSE	1999999999	cart_sig	c65fac17e241c3d2ab94192c528a72ae
+huge-shoes.myshopify.com	TRUE	/	FALSE	1999999999	_y	eda835b6-70e3-45dc-b10d-f7e22d3fb358
+huge-shoes.myshopify.com	TRUE	/	FALSE	1999999999	_s	ccc0de31-e134-423d-ae24-37347e59cada
+huge-shoes.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_y	eda835b6-70e3-45dc-b10d-f7e22d3fb358
+huge-shoes.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_s	ccc0de31-e134-423d-ae24-37347e59cada
+huge-shoes.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_fs	2021-02-15T17%3A53%3A29Z
+huge-shoes.myshopify.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

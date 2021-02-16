@@ -1,0 +1,18 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+pullman-demo.myshopify.com	TRUE	/24858230872/checkouts/6bea24a8a947dece1a165bfc35f3525a	FALSE	1999999999	checkout	eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaVUxTVdFME1EYzBPVGhrTmpaa1ltTmpNelppTkRVNU1tSXpNVGsyWmpCaFpBWTZCa1ZVIiwiZXhwIjoiMjAyMS0wMy0wOFQxNzo0MToyMi4yNjhaIiwicHVyIjoiY29va2llLmNoZWNrb3V0In19--150467c9125b1419475c65256c98ec60f8d05c3f
+pullman-demo.myshopify.com	TRUE	/24858230872	FALSE	1999999999	checkout_token	eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaVUyWW1WaE1qUmhPR0U1TkRka1pXTmxNV0V4TmpWaVptTXpOV1l6TlRJMVlRWTZCa1ZVIiwiZXhwIjoiMjAyMi0wMi0xNVQxNzo0MToyMi4yNjhaIiwicHVyIjoiY29va2llLmNoZWNrb3V0X3Rva2VuIn19--c12f5fcfd7b82bb50ed01a8f5ef87c78c0fb8358
+pullman-demo.myshopify.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+pullman-demo.myshopify.com	TRUE	/	FALSE	1999999999	cart	49ae90e020287911e6af8067d80fe52f
+pullman-demo.myshopify.com	TRUE	/	FALSE	1999999999	cart_ts	1613410880
+pullman-demo.myshopify.com	TRUE	/	FALSE	1999999999	cart_currency	USD
+pullman-demo.myshopify.com	TRUE	/	FALSE	1999999999	cart_ver	gcp-us-central1%3A1
+pullman-demo.myshopify.com	TRUE	/	FALSE	1999999999	preview_theme	1
+pullman-demo.myshopify.com	TRUE	/	FALSE	1999999999	_secure_session_id	8c6e403866a6c635ac59cd52b7059df8
+pullman-demo.myshopify.com	TRUE	/	FALSE	1999999999	_y	91f48e1f-6ca0-41fd-9013-bc16421fd7ba
+pullman-demo.myshopify.com	TRUE	/	FALSE	1999999999	_s	3ccc80be-c2bd-48f4-aeac-b3d72624254b
+pullman-demo.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_y	91f48e1f-6ca0-41fd-9013-bc16421fd7ba
+pullman-demo.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_s	3ccc80be-c2bd-48f4-aeac-b3d72624254b
+pullman-demo.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_fs	2021-02-15T17%3A54%3A39Z
+pullman-demo.myshopify.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

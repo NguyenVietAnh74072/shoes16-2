@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://huge-shoes.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://huge-shoes.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://huge-shoes.myshopify.com/collections/frontpage.atom"/>
+  <title>Shoes</title>
+  <updated>2017-04-19T06:22:07-04:00</updated>
+  <author>
+    <name>Shoes</name>
+  </author>
+  <entry>
+    <id>https://huge-shoes.myshopify.com/products/10386298510</id>
+    <published>2017-04-19T06:22:07-04:00</published>
+    <updated>2017-04-19T06:22:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-shoes.myshopify.com/products/georgette-tunic"/>
+    <title>Bast shoe</title>
+    <s:type>shoes</s:type>
+    <s:vendor>Atletica</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9799/products/shoe19.jpg?v=1494313857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atletica<br>
+        <strong>Type: </strong>shoes<br>
+        <strong>Price: </strong>
+            106.00 - 166.00
+            <a href="https://huge-shoes.myshopify.com/products/georgette-tunic">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>Atletica</s:tag>
+    <s:tag>Leather</s:tag>
+    <s:tag>shoes</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://huge-shoes.myshopify.com/products/10386298510</id>
+      <title>7 / yellow / leather</title>
+      <s:price currency="USD">106.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-shoes.myshopify.com/products/10386298510</id>
+      <title>7.5 / blue / plastics</title>
+      <s:price currency="USD">166.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-shoes.myshopify.com/products/10386298510</id>
+      <title>9 / white / rubber</title>
+      <s:price currency="USD">106.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-shoes.myshopify.com/products/10386297230</id>
+    <published>2017-04-19T06:21:54-04:00</published>
+    <updated>2017-04-19T06:21:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-shoes.myshopify.com/products/ladies4zone-dress"/>
+    <title>Climbing shoe</title>
+    <s:type>shoes</s:type>
+    <s:vendor>Geox</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9799/products/shoe26_de67b47c-8d95-481f-aa85-268cdc309e4e.jpg?v=1494314652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Geox<br>
+        <strong>Type: </strong>shoes<br>
+        <strong>Price: </strong>
+            675.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $700</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>Geox</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>rubber</s:tag>
+    <s:tag>shoes</s:tag>
+    <s:variant>
+      <id>https://huge-shoes.myshopify.com/products/10386297230</id>
+      <title>red / 9 / rubber</title>
+      <s:price currency="USD">675.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-shoes.myshopify.com/products/10386297230</id>
+      <title>grey / 9.5 / plastics</title>
+      <s:price currency="USD">675.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-shoes.myshopify.com/products/10386297230</id>
+      <title>green / 8 / leather</title>
+      <s:price currency="USD">675.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-shoes.myshopify.com/products/10386296782</id>
+    <published>2017-04-19T06:21:49-04:00</published>
+    <updated>2017-04-19T06:21:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-shoes.myshopify.com/products/blazers-waistcoats"/>
+    <title>Court shoe</title>
+    <s:type>shoes</s:type>
+    <s:vendor>Havaianas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9799/products/shoe20_c19cffd2-3ed5-41bf-bf2d-86046aaf06ab.jpg?v=1494314859"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Havaianas<br>
+        <strong>Type: </strong>shoes<br>
+        <strong>Price: </strong>
+            478.00 - 498.00
+            <a href="https://huge-shoes.myshopify.com/products/blazers-waistcoats">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$400 - $500</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>brown</s:tag>
+    <s:tag>Havaianas</s:tag>
+    <s:tag>rubber</s:tag>
+    <s:tag>shoes</s:tag>
+    <s:variant>
+      <id>https://huge-shoes.myshopify.com/products/10386296782</id>
+      <title>8 / brown / rubber</title>
+      <s:price currency="USD">498.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-shoes.myshopify.com/products/10386296782</id>
+      <title>8.5 / black / plastics</title>
+      <s:price currency="USD">478.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-shoes.myshopify.com/products/10386296782</id>
+      <title>9 / sandal / leather</title>
+      <s:price currency="USD">498.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-shoes.myshopify.com/products/10386296590</id>
+    <published>2017-04-19T06:21:48-04:00</published>
+    <updated>2017-04-19T06:21:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-shoes.myshopify.com/products/lee-marc-frock"/>
+    <title>Derby shoe</title>
+    <s:type>shoes</s:type>
+    <s:vendor>Atletica</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9799/products/shoe18.jpg?v=1494315083"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atletica<br>
+        <strong>Type: </strong>shoes<br>
+        <strong>Price: </strong>
+            756.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>Atletica</s:tag>
+    <s:tag>rubber</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>shoes</s:tag>
+    <s:variant>
+      <id>https://huge-shoes.myshopify.com/products/10386296590</id>
+      <title>sandal / 7 / rubber</title>
+      <s:price currency="USD">756.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-shoes.myshopify.com/products/10386296590</id>
+      <title>brown / 7.5 / plastics</title>
+      <s:price currency="USD">756.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-shoes.myshopify.com/products/10386296590</id>
+      <title>black / 8 / leather</title>
+      <s:price currency="USD">756.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-shoes.myshopify.com/products/10386296334</id>
+    <published>2017-04-19T06:21:44-04:00</published>
+    <updated>2017-04-19T06:21:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-shoes.myshopify.com/products/endeavor-shorts"/>
+    <title>Diabetic shoe</title>
+    <s:type>shoes</s:type>
+    <s:vendor>Geox</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9799/products/shoe25_2b59f812-76f2-448b-8835-d7ad151027e4.jpg?v=1494315511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Geox<br>
+        <strong>Type: </strong>shoes<br>
+        <strong>Price: </strong>
+            364.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $400</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>Geox</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>rubber</s:tag>
+    <s:tag>shoes</s:tag>
+    <s:variant>
+      <id>https://huge-shoes.myshopify.com/products/10386296334</id>
+      <title>8 / red / rubber</title>
+      <s:price currency="USD">364.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-shoes.myshopify.com/products/10386296334</id>
+      <title>7 / black / plastics</title>
+      <s:price currency="USD">364.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-shoes.myshopify.com/products/10386296334</id>
+      <title>7.5 / black / leather</title>
+      <s:price currency="USD">364.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-shoes.myshopify.com/products/10386294990</id>
+    <published>2017-04-19T06:21:30-04:00</published>
+    <updated>2017-04-19T06:21:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-shoes.myshopify.com/products/covered-crew-neck"/>
+    <title>High-heeled footwear</title>
+    <s:type>shoes</s:type>
+    <s:vendor>Geox</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9799/products/shoe14_608141c6-f805-4374-aee5-65a7b34f6d51.jpg?v=1494319082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Geox<br>
+        <strong>Type: </strong>shoes<br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>Geox</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>rubber</s:tag>
+    <s:tag>shoes</s:tag>
+    <s:variant>
+      <id>https://huge-shoes.myshopify.com/products/10386294990</id>
+      <title>red / 7 / rubber</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-shoes.myshopify.com/products/10386294990</id>
+      <title>black / 7.5 / plastics</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-shoes.myshopify.com/products/10386294990</id>
+      <title>brown / 8 / leather</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-shoes.myshopify.com/products/10386294222</id>
+    <published>2017-04-19T06:21:20-04:00</published>
+    <updated>2017-04-19T06:21:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-shoes.myshopify.com/products/fleece-sweatshirt"/>
+    <title>Dress shoe</title>
+    <s:type>shoes</s:type>
+    <s:vendor>Havaianas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9799/products/shoe24_e6691333-f78c-42b2-9cc9-c494d3e84d0f.jpg?v=1494322170"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Havaianas<br>
+        <strong>Type: </strong>shoes<br>
+        <strong>Price: </strong>
+            336.00 - 536.00
+            <a href="https://huge-shoes.myshopify.com/products/fleece-sweatshirt">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $400</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>Havaianas</s:tag>
+    <s:tag>rubber</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>shoes</s:tag>
+    <s:variant>
+      <id>https://huge-shoes.myshopify.com/products/10386294222</id>
+      <title>sandal / 9 / rubber</title>
+      <s:price currency="USD">336.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-shoes.myshopify.com/products/10386294222</id>
+      <title>black / 8.5 / plastics</title>
+      <s:price currency="USD">536.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-shoes.myshopify.com/products/10386294222</id>
+      <title>brown / 9 / Leather</title>
+      <s:price currency="USD">436.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-shoes.myshopify.com/products/10386293582</id>
+    <published>2017-04-19T06:21:09-04:00</published>
+    <updated>2017-04-19T06:21:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-shoes.myshopify.com/products/bermuda-shorts"/>
+    <title>Dori shoes</title>
+    <s:type>shoes</s:type>
+    <s:vendor>Bontoni</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9799/products/shoe22_48464579-a7fe-40ba-ad66-8c6aa7ef2bb1.jpg?v=1494315721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bontoni<br>
+        <strong>Type: </strong>shoes<br>
+        <strong>Price: </strong>
+            389.00 - 689.00
+            <a href="https://huge-shoes.myshopify.com/products/bermuda-shorts">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui official.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$400 - $500</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Bontoni</s:tag>
+    <s:tag>rubber</s:tag>
+    <s:tag>shoes</s:tag>
+    <s:variant>
+      <id>https://huge-shoes.myshopify.com/products/10386293582</id>
+      <title>7 / black / rubber</title>
+      <s:price currency="USD">389.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-shoes.myshopify.com/products/10386293582</id>
+      <title>7.5 / white / plastics</title>
+      <s:price currency="USD">489.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-shoes.myshopify.com/products/10386293582</id>
+      <title>8 / blue / leather</title>
+      <s:price currency="USD">589.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-shoes.myshopify.com/products/10386293582</id>
+      <title>8.5 / brown / rubber</title>
+      <s:price currency="USD">689.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
